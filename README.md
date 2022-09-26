@@ -1,2 +1,3 @@
 # Python
- Exercícios realizados em Python sobre listas do site: https://wiki.python.org.br/ExerciciosListas
+ Exercícios realizados em Python sobre listas.
+ Site com os exercícios: https://wiki.python.org.br/ExerciciosListas
